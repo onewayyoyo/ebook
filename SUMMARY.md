@@ -56,7 +56,6 @@
     * [附件1-2：外内部合规依据及版本控制](chapter2/1/attachment-1-2.md)
   * [上海银行总行部门、经营单位领导班子及其成员年度考核办法（2014版）](chapter2/2/content.md)
     * [fa2013-176fujian](chapter2/2/attachment.md)
-    * [content.html](chapter2/2/attachment-content.md)
   * [上海银行员工绩效薪酬延期支付管理办法](chapter2/3/content.md)
     * [附件：上海银行员工绩效薪酬延期支付管理办法](chapter2/3/attachment.md)
   * [上海银行管理岗位人员引咎辞职暂行规定](chapter2/4/content.md)
